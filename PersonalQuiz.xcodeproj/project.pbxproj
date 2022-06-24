@@ -56,10 +56,10 @@
 		EC373F2C286656B900B67CF8 /* PersonalQuiz */ = {
 			isa = PBXGroup;
 			children = (
+				EC373F4528665EA300B67CF8 /* StoryBoards */,
+				EC373F4228665E2B00B67CF8 /* ViewControllers */,
 				EC373F4428665E5D00B67CF8 /* Models */,
 				EC373F4728665F0200B67CF8 /* SupportFiles */,
-				EC373F4228665E2B00B67CF8 /* ViewControllers */,
-				EC373F4528665EA300B67CF8 /* StoryBoards */,
 				EC373F4628665ED300B67CF8 /* Resoursec */,
 			);
 			path = PersonalQuiz;
